@@ -156,5 +156,19 @@ GROUP BY
     ko.Customer_Name, ko.Customer_Segment
 ORDER BY 
     number_returned DESC;ng Question10.sql…]()
+### ❓ Q11: Did the company appropriately align shipping methods with order priorities?
+
+**Answer:**
+
+Based on the data, the company has **not appropriately aligned shipping methods with order priorities**.
+
+- 🚚 **Delivery Truck**, while being the **most expensive and slowest** option, is used **extensively for Low and Medium priority orders**.
+- ✈️ **Express Air** — the **fastest and cheapest** method — is **underutilized for Critical orders**.
+
+🔍 A more efficient approach would be to:
+- Use **fast shipping methods like Express Air** for **high-priority orders**
+- Reserve **economical options like Delivery Truck** for **low-priority shipments**
+
+This change would help optimize both **cost** and **service level**, improving logistics and customer satisfaction.
 
 
