@@ -1,4 +1,4 @@
-# DSA-CAPSTONE-PROJECT-SQL-[KMS SQL Project Answers.docx](https://github.com/user-attachments/files/21048487/KMS.SQL.Project.Answers.docx)
+# DSA-CAPSTONE-PROJECT-SQL
 SQL CASE STUDY, KULTRA MEGA STORE
 # 🏢 Kultra Mega Stores Inventory – SQL Case Study
 
@@ -53,13 +53,9 @@ As a Junior Data Analyst, I was asked to help the Abuja division answer question
 
 ## 🗂️ Files Included
 
-- `KMS_Case_Study.sql` – All queries grouped by scenario and question
-- `Order_Status.csv` – File imported for return tracking
-- `KMS_Sql_Case_Study.csv` – Main dataset (2009–2012)
-
----Files
-[answer sql scripts.zip](https://github.com/user-attachments/files/21059346/answer.sql.scripts.zip)
-[DB Tables as CSV.zip](https://github.com/user-attachments/files/21059364/DB.Tables.as.CSV.zip)
+- [answer sql scripts.zip](https://github.com/user-attachments/files/21059346/answer.sql.scripts.zip)
+- [DB Tables as CSV.zip](https://github.com/user-attachments/files/21059364/DB.Tables.as.CSV.zip)
+- [KMS SQL Project Answers.docx](https://github.com/user-attachments/files/21048487/KMS.SQL.Project.Answers.docx)
 
 
 
