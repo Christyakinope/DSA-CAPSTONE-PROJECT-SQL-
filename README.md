@@ -162,13 +162,13 @@ ORDER BY
 
 Based on the data, the company has **not appropriately aligned shipping methods with order priorities**.
 
-- 🚚 **Delivery Truck**, while being the **most expensive and slowest** option, is used **extensively for Low and Medium priority orders**.
+- 🚚 **Delivery Truck**, while being the **most expensive and slowest option, is used extensively for Low and Medium priority orders.
 - ✈️ **Express Air** — the **fastest and cheapest** method — is **underutilized for Critical orders**.
 
 🔍 A more efficient approach would be to:
-- Use **fast shipping methods like Express Air** for **high-priority orders**
-- Reserve **economical options like Delivery Truck** for **low-priority shipments**
+- Use **fast shipping methods like Express Air** for high-priority orders
+- Reserve **economical options like Delivery Truck** for low-priority shipments
 
-This change would help optimize both **cost** and **service level**, improving logistics and customer satisfaction.
+This change would help optimize both **cost** and service level, improving logistics and customer satisfaction.
 
 
