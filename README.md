@@ -1,4 +1,4 @@
-[KMS SQL Project Answers.docx](https://github.com/user-attachments/files/21048487/KMS.SQL.Project.Answers.docx)# DSA-CAPSTONE-PROJECT-SQL-
+# DSA-CAPSTONE-PROJECT-SQL-[KMS SQL Project Answers.docx](https://github.com/user-attachments/files/21048487/KMS.SQL.Project.Answers.docx)
 SQL CASE STUDY, KULTRA MEGA STORE
 # 🏢 Kultra Mega Stores Inventory – SQL Case Study
 
@@ -57,8 +57,14 @@ As a Junior Data Analyst, I was asked to help the Abuja division answer question
 - `Order_Status.csv` – File imported for return tracking
 - `KMS_Sql_Case_Study.csv` – Main dataset (2009–2012)
 
----[Uploadingselect top (1) product_category, 
+---Files
+[answer sql scripts.zip](https://github.com/user-attachments/files/21059346/answer.sql.scripts.zip)
+[DB Tables as CSV.zip](https://github.com/user-attachments/files/21059364/DB.Tables.as.CSV.zip)
+
+
+
 sum(order_quantity) as Total_orders from dbo.kms_orders group by product_category order by Total_orders desc; Question1.sql…]()
+
 
 
 
