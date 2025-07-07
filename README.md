@@ -56,8 +56,7 @@ As a Junior Data Analyst, I was asked to help the Abuja division answer question
 - [answer sql scripts.zip](https://github.com/user-attachments/files/21059346/answer.sql.scripts.zip)
 - [DB Tables as CSV.zip](https://github.com/user-attachments/files/21059364/DB.Tables.as.CSV.zip)
 - [KMS SQL Project Answers.docx](https://github.com/user-attachments/files/21048487/KMS.SQL.Project.Answers.docx)
-- Mysql Query Conversion.docx
-
+-https://github.com/Christyakinope/DSA-CAPSTONE-PROJECT-SQL-/blob/main/Mysql%20Query%20Conversion.docx
 
 
 sum(order_quantity) as Total_orders from dbo.kms_orders group by product_category order by Total_orders desc; Question1.sql…]()
